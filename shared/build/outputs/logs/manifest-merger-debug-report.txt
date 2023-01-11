@@ -1,0 +1,25 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/ebubekirsezer/Desktop/GithubProjects/KMMSharedApp/shared/src/androidMain/AndroidManifest.xml:2:1-48
+INJECTED from /Users/ebubekirsezer/Desktop/GithubProjects/KMMSharedApp/shared/src/androidMain/AndroidManifest.xml:2:1-48
+INJECTED from /Users/ebubekirsezer/Desktop/GithubProjects/KMMSharedApp/shared/src/androidMain/AndroidManifest.xml:2:1-48
+	package
+		ADDED from /Users/ebubekirsezer/Desktop/GithubProjects/KMMSharedApp/shared/src/androidMain/AndroidManifest.xml:2:11-45
+		INJECTED from /Users/ebubekirsezer/Desktop/GithubProjects/KMMSharedApp/shared/src/androidMain/AndroidManifest.xml
+		INJECTED from /Users/ebubekirsezer/Desktop/GithubProjects/KMMSharedApp/shared/src/androidMain/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/ebubekirsezer/Desktop/GithubProjects/KMMSharedApp/shared/src/androidMain/AndroidManifest.xml:2:1-48
+uses-sdk
+INJECTED from /Users/ebubekirsezer/Desktop/GithubProjects/KMMSharedApp/shared/src/androidMain/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/ebubekirsezer/Desktop/GithubProjects/KMMSharedApp/shared/src/androidMain/AndroidManifest.xml
+INJECTED from /Users/ebubekirsezer/Desktop/GithubProjects/KMMSharedApp/shared/src/androidMain/AndroidManifest.xml
+INJECTED from /Users/ebubekirsezer/Desktop/GithubProjects/KMMSharedApp/shared/src/androidMain/AndroidManifest.xml
+INJECTED from /Users/ebubekirsezer/Desktop/GithubProjects/KMMSharedApp/shared/src/androidMain/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/ebubekirsezer/Desktop/GithubProjects/KMMSharedApp/shared/src/androidMain/AndroidManifest.xml
+		ADDED from /Users/ebubekirsezer/Desktop/GithubProjects/KMMSharedApp/shared/src/androidMain/AndroidManifest.xml
+		INJECTED from /Users/ebubekirsezer/Desktop/GithubProjects/KMMSharedApp/shared/src/androidMain/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/ebubekirsezer/Desktop/GithubProjects/KMMSharedApp/shared/src/androidMain/AndroidManifest.xml
+		ADDED from /Users/ebubekirsezer/Desktop/GithubProjects/KMMSharedApp/shared/src/androidMain/AndroidManifest.xml
+		INJECTED from /Users/ebubekirsezer/Desktop/GithubProjects/KMMSharedApp/shared/src/androidMain/AndroidManifest.xml

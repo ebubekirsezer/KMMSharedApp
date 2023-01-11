@@ -1,0 +1,7 @@
+version: "Apple Swift version 5.7.2 (swiftlang-5.7.2.135.5 clang-1400.0.29.51)"
+options: "cbe46c27f503d295192e01a5498af1a97951c1c64a2bdb2e216ab93d712db978"
+build_start_time: [1673430723, 525338172]
+build_end_time: [1673430723, 549070835]
+inputs:
+  "/Users/ebubekirsezer/AndroidStudioProjects/KMMSharedApp/iosApp/iosApp/ContentView.swift": !private [1673430713, 540018558]
+  "/Users/ebubekirsezer/AndroidStudioProjects/KMMSharedApp/iosApp/iosApp/iOSApp.swift": [1673427483, 693674564]

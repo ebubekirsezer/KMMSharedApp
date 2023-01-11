@@ -1,0 +1,179 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/ebubekirsezer/Desktop/GithubProjects/KMMSharedApp/androidApp/src/main/AndroidManifest.xml:2:1-18:12
+INJECTED from /Users/ebubekirsezer/Desktop/GithubProjects/KMMSharedApp/androidApp/src/main/AndroidManifest.xml:2:1-18:12
+INJECTED from /Users/ebubekirsezer/Desktop/GithubProjects/KMMSharedApp/androidApp/src/main/AndroidManifest.xml:2:1-18:12
+INJECTED from /Users/ebubekirsezer/Desktop/GithubProjects/KMMSharedApp/androidApp/src/main/AndroidManifest.xml:2:1-18:12
+MERGED from [:shared] /Users/ebubekirsezer/Desktop/GithubProjects/KMMSharedApp/shared/build/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.material:material:1.4.0] /Users/ebubekirsezer/.gradle/caches/transforms-3/0ad3e3eb510a706ab0ed942a3fbd47aa/transformed/material-1.4.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.0] /Users/ebubekirsezer/.gradle/caches/transforms-3/43c17c7776a876b52c1c5534b62e9707/transformed/constraintlayout-2.1.0/AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.appcompat:appcompat:1.3.1] /Users/ebubekirsezer/.gradle/caches/transforms-3/ea12e1bf339761dcb358c001809c1d69/transformed/appcompat-1.3.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/ebubekirsezer/.gradle/caches/transforms-3/ec7cb0a5458117a83b1ac8c97d86041f/transformed/cardview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /Users/ebubekirsezer/.gradle/caches/transforms-3/6e18091beb8c5301dccc0af5d8c4684f/transformed/coordinatorlayout-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] /Users/ebubekirsezer/.gradle/caches/transforms-3/9d3eb39b203aa61a44f9758e188382b8/transformed/dynamicanimation-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.transition:transition:1.2.0] /Users/ebubekirsezer/.gradle/caches/transforms-3/6328594d2aa7328b36483ac16dc72a13/transformed/transition-1.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat-resources:1.3.1] /Users/ebubekirsezer/.gradle/caches/transforms-3/a22998384cc6092aeb9426fe44aaf515/transformed/appcompat-resources-1.3.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/ebubekirsezer/.gradle/caches/transforms-3/ef339689edf1dee7e4c4eb3388a1534d/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/ebubekirsezer/.gradle/caches/transforms-3/b636ea073f70f102edce9fa76bf975a9/transformed/vectordrawable-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Users/ebubekirsezer/.gradle/caches/transforms-3/b5b095dedcd984fefd09808d613d33cb/transformed/viewpager2-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.fragment:fragment:1.3.6] /Users/ebubekirsezer/.gradle/caches/transforms-3/cd34b4b6678f8934f982f7b7cc2251e2/transformed/fragment-1.3.6/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.activity:activity:1.2.4] /Users/ebubekirsezer/.gradle/caches/transforms-3/83b1876d86d5ba18a9760be16bcf87c9/transformed/activity-1.2.4/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/ebubekirsezer/.gradle/caches/transforms-3/4ae788ff91de2fdac99c07e32431940f/transformed/drawerlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /Users/ebubekirsezer/.gradle/caches/transforms-3/0634ef01cee07be997717be07fc480c6/transformed/recyclerview-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/ebubekirsezer/.gradle/caches/transforms-3/b65037602c7fa5e6ce0677029d276b27/transformed/viewpager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] /Users/ebubekirsezer/.gradle/caches/transforms-3/a2e5e67d8bc5bd10f561d60c53326163/transformed/customview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/ebubekirsezer/.gradle/caches/transforms-3/7617fe92610ff8365fd0df1eb41a617b/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /Users/ebubekirsezer/.gradle/caches/transforms-3/8ad990a0341abe8203fa5ad87951ed70/transformed/loader-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.5.0] /Users/ebubekirsezer/.gradle/caches/transforms-3/4f4c757af575bb3e05af69e991871e92/transformed/core-1.5.0/AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.3.1] /Users/ebubekirsezer/.gradle/caches/transforms-3/35e40fc959e0ea22a01a146ec76afc93/transformed/lifecycle-runtime-2.3.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/ebubekirsezer/.gradle/caches/transforms-3/3597421eddfa8830316f2d141f6bd7e2/transformed/cursoradapter-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.1] /Users/ebubekirsezer/.gradle/caches/transforms-3/9815739a8477e4e44b57c49fdc4cc296/transformed/lifecycle-viewmodel-savedstate-2.3.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.savedstate:savedstate:1.1.0] /Users/ebubekirsezer/.gradle/caches/transforms-3/e298f9daca7ea09063358d7b4128ee77/transformed/savedstate-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.1] /Users/ebubekirsezer/.gradle/caches/transforms-3/5c7f406f9526f71a1e3727d975d25571/transformed/lifecycle-viewmodel-2.3.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/ebubekirsezer/.gradle/caches/transforms-3/e2fea30defd8137e974b61c06c8903d4/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/ebubekirsezer/.gradle/caches/transforms-3/476d2b1797642c6b4e6ec840035dba8d/transformed/lifecycle-livedata-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.1] /Users/ebubekirsezer/.gradle/caches/transforms-3/fa0a1512e6ca32af32ff1e0c77f3a4f9/transformed/lifecycle-livedata-core-2.3.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /Users/ebubekirsezer/.gradle/caches/transforms-3/a5e1e5089c7e201a93cfcccddccb3c4f/transformed/core-runtime-2.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.tracing:tracing:1.0.0] /Users/ebubekirsezer/.gradle/caches/transforms-3/cd5b71951dd689faf42d0a9c443c3572/transformed/tracing-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/ebubekirsezer/.gradle/caches/transforms-3/0c885f5c6efb047afd25b8264c145d2a/transformed/documentfile-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/ebubekirsezer/.gradle/caches/transforms-3/de5679ca641bc0a5b3f928f8471c3095/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] /Users/ebubekirsezer/.gradle/caches/transforms-3/d15bd94950363717cdacfcbc6d1a5694/transformed/print-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/ebubekirsezer/.gradle/caches/transforms-3/01325d4dbbcfc27f1302a039338f26f3/transformed/interpolator-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.annotation:annotation-experimental:1.0.0] /Users/ebubekirsezer/.gradle/caches/transforms-3/d23183322497f9006d8ff4776329cb61/transformed/annotation-experimental-1.0.0/AndroidManifest.xml:17:1-24:12
+INJECTED from /Users/ebubekirsezer/Desktop/GithubProjects/KMMSharedApp/androidApp/src/main/AndroidManifest.xml:2:1-18:12
+INJECTED from /Users/ebubekirsezer/Desktop/GithubProjects/KMMSharedApp/androidApp/src/main/AndroidManifest.xml:2:1-18:12
+INJECTED from /Users/ebubekirsezer/Desktop/GithubProjects/KMMSharedApp/androidApp/src/main/AndroidManifest.xml:2:1-18:12
+	package
+		ADDED from /Users/ebubekirsezer/Desktop/GithubProjects/KMMSharedApp/androidApp/src/main/AndroidManifest.xml:3:5-47
+		INJECTED from /Users/ebubekirsezer/Desktop/GithubProjects/KMMSharedApp/androidApp/src/main/AndroidManifest.xml
+		INJECTED from /Users/ebubekirsezer/Desktop/GithubProjects/KMMSharedApp/androidApp/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/ebubekirsezer/Desktop/GithubProjects/KMMSharedApp/androidApp/src/main/AndroidManifest.xml
+		ADDED from /Users/ebubekirsezer/Desktop/GithubProjects/KMMSharedApp/androidApp/src/main/AndroidManifest.xml:2:1-18:12
+		INJECTED from /Users/ebubekirsezer/Desktop/GithubProjects/KMMSharedApp/androidApp/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/ebubekirsezer/Desktop/GithubProjects/KMMSharedApp/androidApp/src/main/AndroidManifest.xml
+		ADDED from /Users/ebubekirsezer/Desktop/GithubProjects/KMMSharedApp/androidApp/src/main/AndroidManifest.xml:2:1-18:12
+		INJECTED from /Users/ebubekirsezer/Desktop/GithubProjects/KMMSharedApp/androidApp/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/ebubekirsezer/Desktop/GithubProjects/KMMSharedApp/androidApp/src/main/AndroidManifest.xml:2:11-69
+application
+ADDED from /Users/ebubekirsezer/Desktop/GithubProjects/KMMSharedApp/androidApp/src/main/AndroidManifest.xml:5:5-17:19
+MERGED from [com.google.android.material:material:1.4.0] /Users/ebubekirsezer/.gradle/caches/transforms-3/0ad3e3eb510a706ab0ed942a3fbd47aa/transformed/material-1.4.0/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.4.0] /Users/ebubekirsezer/.gradle/caches/transforms-3/0ad3e3eb510a706ab0ed942a3fbd47aa/transformed/material-1.4.0/AndroidManifest.xml:22:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.0] /Users/ebubekirsezer/.gradle/caches/transforms-3/43c17c7776a876b52c1c5534b62e9707/transformed/constraintlayout-2.1.0/AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.0] /Users/ebubekirsezer/.gradle/caches/transforms-3/43c17c7776a876b52c1c5534b62e9707/transformed/constraintlayout-2.1.0/AndroidManifest.xml:9:5-20
+MERGED from [androidx.core:core:1.5.0] /Users/ebubekirsezer/.gradle/caches/transforms-3/4f4c757af575bb3e05af69e991871e92/transformed/core-1.5.0/AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.5.0] /Users/ebubekirsezer/.gradle/caches/transforms-3/4f4c757af575bb3e05af69e991871e92/transformed/core-1.5.0/AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/ebubekirsezer/.gradle/caches/transforms-3/e2fea30defd8137e974b61c06c8903d4/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/ebubekirsezer/.gradle/caches/transforms-3/e2fea30defd8137e974b61c06c8903d4/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.5.0] /Users/ebubekirsezer/.gradle/caches/transforms-3/4f4c757af575bb3e05af69e991871e92/transformed/core-1.5.0/AndroidManifest.xml:24:18-86
+	android:supportsRtl
+		ADDED from /Users/ebubekirsezer/Desktop/GithubProjects/KMMSharedApp/androidApp/src/main/AndroidManifest.xml:7:9-35
+	android:allowBackup
+		ADDED from /Users/ebubekirsezer/Desktop/GithubProjects/KMMSharedApp/androidApp/src/main/AndroidManifest.xml:6:9-36
+	android:theme
+		ADDED from /Users/ebubekirsezer/Desktop/GithubProjects/KMMSharedApp/androidApp/src/main/AndroidManifest.xml:8:9-40
+activity#com.example.kmmsharedapp.android.MainActivity
+ADDED from /Users/ebubekirsezer/Desktop/GithubProjects/KMMSharedApp/androidApp/src/main/AndroidManifest.xml:9:9-16:20
+	android:exported
+		ADDED from /Users/ebubekirsezer/Desktop/GithubProjects/KMMSharedApp/androidApp/src/main/AndroidManifest.xml:11:13-36
+	android:name
+		ADDED from /Users/ebubekirsezer/Desktop/GithubProjects/KMMSharedApp/androidApp/src/main/AndroidManifest.xml:10:13-41
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/ebubekirsezer/Desktop/GithubProjects/KMMSharedApp/androidApp/src/main/AndroidManifest.xml:12:13-15:29
+action#android.intent.action.MAIN
+ADDED from /Users/ebubekirsezer/Desktop/GithubProjects/KMMSharedApp/androidApp/src/main/AndroidManifest.xml:13:17-69
+	android:name
+		ADDED from /Users/ebubekirsezer/Desktop/GithubProjects/KMMSharedApp/androidApp/src/main/AndroidManifest.xml:13:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/ebubekirsezer/Desktop/GithubProjects/KMMSharedApp/androidApp/src/main/AndroidManifest.xml:14:17-77
+	android:name
+		ADDED from /Users/ebubekirsezer/Desktop/GithubProjects/KMMSharedApp/androidApp/src/main/AndroidManifest.xml:14:27-74
+uses-sdk
+INJECTED from /Users/ebubekirsezer/Desktop/GithubProjects/KMMSharedApp/androidApp/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/ebubekirsezer/Desktop/GithubProjects/KMMSharedApp/androidApp/src/main/AndroidManifest.xml
+INJECTED from /Users/ebubekirsezer/Desktop/GithubProjects/KMMSharedApp/androidApp/src/main/AndroidManifest.xml
+MERGED from [:shared] /Users/ebubekirsezer/Desktop/GithubProjects/KMMSharedApp/shared/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:shared] /Users/ebubekirsezer/Desktop/GithubProjects/KMMSharedApp/shared/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.android.material:material:1.4.0] /Users/ebubekirsezer/.gradle/caches/transforms-3/0ad3e3eb510a706ab0ed942a3fbd47aa/transformed/material-1.4.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.4.0] /Users/ebubekirsezer/.gradle/caches/transforms-3/0ad3e3eb510a706ab0ed942a3fbd47aa/transformed/material-1.4.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.0] /Users/ebubekirsezer/.gradle/caches/transforms-3/43c17c7776a876b52c1c5534b62e9707/transformed/constraintlayout-2.1.0/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.0] /Users/ebubekirsezer/.gradle/caches/transforms-3/43c17c7776a876b52c1c5534b62e9707/transformed/constraintlayout-2.1.0/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.appcompat:appcompat:1.3.1] /Users/ebubekirsezer/.gradle/caches/transforms-3/ea12e1bf339761dcb358c001809c1d69/transformed/appcompat-1.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.3.1] /Users/ebubekirsezer/.gradle/caches/transforms-3/ea12e1bf339761dcb358c001809c1d69/transformed/appcompat-1.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/ebubekirsezer/.gradle/caches/transforms-3/ec7cb0a5458117a83b1ac8c97d86041f/transformed/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/ebubekirsezer/.gradle/caches/transforms-3/ec7cb0a5458117a83b1ac8c97d86041f/transformed/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /Users/ebubekirsezer/.gradle/caches/transforms-3/6e18091beb8c5301dccc0af5d8c4684f/transformed/coordinatorlayout-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /Users/ebubekirsezer/.gradle/caches/transforms-3/6e18091beb8c5301dccc0af5d8c4684f/transformed/coordinatorlayout-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] /Users/ebubekirsezer/.gradle/caches/transforms-3/9d3eb39b203aa61a44f9758e188382b8/transformed/dynamicanimation-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] /Users/ebubekirsezer/.gradle/caches/transforms-3/9d3eb39b203aa61a44f9758e188382b8/transformed/dynamicanimation-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.2.0] /Users/ebubekirsezer/.gradle/caches/transforms-3/6328594d2aa7328b36483ac16dc72a13/transformed/transition-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] /Users/ebubekirsezer/.gradle/caches/transforms-3/6328594d2aa7328b36483ac16dc72a13/transformed/transition-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.3.1] /Users/ebubekirsezer/.gradle/caches/transforms-3/a22998384cc6092aeb9426fe44aaf515/transformed/appcompat-resources-1.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.3.1] /Users/ebubekirsezer/.gradle/caches/transforms-3/a22998384cc6092aeb9426fe44aaf515/transformed/appcompat-resources-1.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/ebubekirsezer/.gradle/caches/transforms-3/ef339689edf1dee7e4c4eb3388a1534d/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/ebubekirsezer/.gradle/caches/transforms-3/ef339689edf1dee7e4c4eb3388a1534d/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/ebubekirsezer/.gradle/caches/transforms-3/b636ea073f70f102edce9fa76bf975a9/transformed/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/ebubekirsezer/.gradle/caches/transforms-3/b636ea073f70f102edce9fa76bf975a9/transformed/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Users/ebubekirsezer/.gradle/caches/transforms-3/b5b095dedcd984fefd09808d613d33cb/transformed/viewpager2-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Users/ebubekirsezer/.gradle/caches/transforms-3/b5b095dedcd984fefd09808d613d33cb/transformed/viewpager2-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.3.6] /Users/ebubekirsezer/.gradle/caches/transforms-3/cd34b4b6678f8934f982f7b7cc2251e2/transformed/fragment-1.3.6/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.3.6] /Users/ebubekirsezer/.gradle/caches/transforms-3/cd34b4b6678f8934f982f7b7cc2251e2/transformed/fragment-1.3.6/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.2.4] /Users/ebubekirsezer/.gradle/caches/transforms-3/83b1876d86d5ba18a9760be16bcf87c9/transformed/activity-1.2.4/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.2.4] /Users/ebubekirsezer/.gradle/caches/transforms-3/83b1876d86d5ba18a9760be16bcf87c9/transformed/activity-1.2.4/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/ebubekirsezer/.gradle/caches/transforms-3/4ae788ff91de2fdac99c07e32431940f/transformed/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/ebubekirsezer/.gradle/caches/transforms-3/4ae788ff91de2fdac99c07e32431940f/transformed/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /Users/ebubekirsezer/.gradle/caches/transforms-3/0634ef01cee07be997717be07fc480c6/transformed/recyclerview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /Users/ebubekirsezer/.gradle/caches/transforms-3/0634ef01cee07be997717be07fc480c6/transformed/recyclerview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/ebubekirsezer/.gradle/caches/transforms-3/b65037602c7fa5e6ce0677029d276b27/transformed/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/ebubekirsezer/.gradle/caches/transforms-3/b65037602c7fa5e6ce0677029d276b27/transformed/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/ebubekirsezer/.gradle/caches/transforms-3/a2e5e67d8bc5bd10f561d60c53326163/transformed/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/ebubekirsezer/.gradle/caches/transforms-3/a2e5e67d8bc5bd10f561d60c53326163/transformed/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/ebubekirsezer/.gradle/caches/transforms-3/7617fe92610ff8365fd0df1eb41a617b/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/ebubekirsezer/.gradle/caches/transforms-3/7617fe92610ff8365fd0df1eb41a617b/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/ebubekirsezer/.gradle/caches/transforms-3/8ad990a0341abe8203fa5ad87951ed70/transformed/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/ebubekirsezer/.gradle/caches/transforms-3/8ad990a0341abe8203fa5ad87951ed70/transformed/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.5.0] /Users/ebubekirsezer/.gradle/caches/transforms-3/4f4c757af575bb3e05af69e991871e92/transformed/core-1.5.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.5.0] /Users/ebubekirsezer/.gradle/caches/transforms-3/4f4c757af575bb3e05af69e991871e92/transformed/core-1.5.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.3.1] /Users/ebubekirsezer/.gradle/caches/transforms-3/35e40fc959e0ea22a01a146ec76afc93/transformed/lifecycle-runtime-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.3.1] /Users/ebubekirsezer/.gradle/caches/transforms-3/35e40fc959e0ea22a01a146ec76afc93/transformed/lifecycle-runtime-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/ebubekirsezer/.gradle/caches/transforms-3/3597421eddfa8830316f2d141f6bd7e2/transformed/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/ebubekirsezer/.gradle/caches/transforms-3/3597421eddfa8830316f2d141f6bd7e2/transformed/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.1] /Users/ebubekirsezer/.gradle/caches/transforms-3/9815739a8477e4e44b57c49fdc4cc296/transformed/lifecycle-viewmodel-savedstate-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.1] /Users/ebubekirsezer/.gradle/caches/transforms-3/9815739a8477e4e44b57c49fdc4cc296/transformed/lifecycle-viewmodel-savedstate-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.1.0] /Users/ebubekirsezer/.gradle/caches/transforms-3/e298f9daca7ea09063358d7b4128ee77/transformed/savedstate-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.1.0] /Users/ebubekirsezer/.gradle/caches/transforms-3/e298f9daca7ea09063358d7b4128ee77/transformed/savedstate-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.1] /Users/ebubekirsezer/.gradle/caches/transforms-3/5c7f406f9526f71a1e3727d975d25571/transformed/lifecycle-viewmodel-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.1] /Users/ebubekirsezer/.gradle/caches/transforms-3/5c7f406f9526f71a1e3727d975d25571/transformed/lifecycle-viewmodel-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/ebubekirsezer/.gradle/caches/transforms-3/e2fea30defd8137e974b61c06c8903d4/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/ebubekirsezer/.gradle/caches/transforms-3/e2fea30defd8137e974b61c06c8903d4/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/ebubekirsezer/.gradle/caches/transforms-3/476d2b1797642c6b4e6ec840035dba8d/transformed/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/ebubekirsezer/.gradle/caches/transforms-3/476d2b1797642c6b4e6ec840035dba8d/transformed/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.1] /Users/ebubekirsezer/.gradle/caches/transforms-3/fa0a1512e6ca32af32ff1e0c77f3a4f9/transformed/lifecycle-livedata-core-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.1] /Users/ebubekirsezer/.gradle/caches/transforms-3/fa0a1512e6ca32af32ff1e0c77f3a4f9/transformed/lifecycle-livedata-core-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /Users/ebubekirsezer/.gradle/caches/transforms-3/a5e1e5089c7e201a93cfcccddccb3c4f/transformed/core-runtime-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /Users/ebubekirsezer/.gradle/caches/transforms-3/a5e1e5089c7e201a93cfcccddccb3c4f/transformed/core-runtime-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] /Users/ebubekirsezer/.gradle/caches/transforms-3/cd5b71951dd689faf42d0a9c443c3572/transformed/tracing-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] /Users/ebubekirsezer/.gradle/caches/transforms-3/cd5b71951dd689faf42d0a9c443c3572/transformed/tracing-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/ebubekirsezer/.gradle/caches/transforms-3/0c885f5c6efb047afd25b8264c145d2a/transformed/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/ebubekirsezer/.gradle/caches/transforms-3/0c885f5c6efb047afd25b8264c145d2a/transformed/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/ebubekirsezer/.gradle/caches/transforms-3/de5679ca641bc0a5b3f928f8471c3095/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/ebubekirsezer/.gradle/caches/transforms-3/de5679ca641bc0a5b3f928f8471c3095/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/ebubekirsezer/.gradle/caches/transforms-3/d15bd94950363717cdacfcbc6d1a5694/transformed/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/ebubekirsezer/.gradle/caches/transforms-3/d15bd94950363717cdacfcbc6d1a5694/transformed/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/ebubekirsezer/.gradle/caches/transforms-3/01325d4dbbcfc27f1302a039338f26f3/transformed/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/ebubekirsezer/.gradle/caches/transforms-3/01325d4dbbcfc27f1302a039338f26f3/transformed/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.0.0] /Users/ebubekirsezer/.gradle/caches/transforms-3/d23183322497f9006d8ff4776329cb61/transformed/annotation-experimental-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.annotation:annotation-experimental:1.0.0] /Users/ebubekirsezer/.gradle/caches/transforms-3/d23183322497f9006d8ff4776329cb61/transformed/annotation-experimental-1.0.0/AndroidManifest.xml:20:5-22:41
+INJECTED from /Users/ebubekirsezer/Desktop/GithubProjects/KMMSharedApp/androidApp/src/main/AndroidManifest.xml
+INJECTED from /Users/ebubekirsezer/Desktop/GithubProjects/KMMSharedApp/androidApp/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/ebubekirsezer/Desktop/GithubProjects/KMMSharedApp/androidApp/src/main/AndroidManifest.xml
+		ADDED from /Users/ebubekirsezer/Desktop/GithubProjects/KMMSharedApp/androidApp/src/main/AndroidManifest.xml
+		INJECTED from /Users/ebubekirsezer/Desktop/GithubProjects/KMMSharedApp/androidApp/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/ebubekirsezer/Desktop/GithubProjects/KMMSharedApp/androidApp/src/main/AndroidManifest.xml
+		ADDED from /Users/ebubekirsezer/Desktop/GithubProjects/KMMSharedApp/androidApp/src/main/AndroidManifest.xml
+		INJECTED from /Users/ebubekirsezer/Desktop/GithubProjects/KMMSharedApp/androidApp/src/main/AndroidManifest.xml

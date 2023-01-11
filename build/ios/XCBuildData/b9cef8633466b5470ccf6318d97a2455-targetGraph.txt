@@ -1,0 +1,4 @@
+Target dependency graph (2 targets)
+KMMSharedApp in KMMSharedApp, no dependencies
+iosApp in iosApp, depends on:
+KMMSharedApp in KMMSharedApp (explicit)
